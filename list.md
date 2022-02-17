@@ -1,40 +1,40 @@
-<h1>Js/Css WareHouse with Cloudflare CDN</h1>
+Js/Css WareHouse with Cloudflare CDN
 
-<h2>BootStrap</h2>
+## BootStrap
 
-<h3>3.4.1</h3>
 
-<p><code>
+### 3.4.1
+
+```
 https://cdn.johanst.nom.za/bootstrap/3.4.1/css/bootstrap.min.css
 https://cdn.johanst.nom.za/bootstrap/3.4.1/js/bootstrap.min.js
-</code></p>
+```
+### 4.6.1
 
-<h3>4.6.1</h3>
-
-<p><code>
+```
 https://cdn.johanst.nom.za/bootstrap/4.6.1/css/bootstrap.min.css
 https://cdn.johanst.nom.za/bootstrap/4.6.1/js/bootstrap.min.js
-</code></p>
+```
+### 5.1.3
 
-<h3>5.1.3</h3>
-
-<p><code>
+```
 https://cdn.johanst.nom.za/bootstrap/5.1.3/css/bootstrap.min.css
 https://cdn.johanst.nom.za/bootstrap/5.1.3/js/bootstrap.min.js
-</code></p>
+```
 
-<h2>Jquery</h2>
+## Jquery
 
-<h3>3.5.1</h3>
 
-<p><code>
+### 3.5.1
+
+```
 https://cdn.johanst.nom.za/jquery/jquery-3.5.1.min.js
 https://cdn.johanst.nom.za/jquery/jquery-3.5.1.slim.min.js
-</code></p>
+```
+### 3.6.0
 
-<h3>3.6.0</h3>
-
-<p><code>
+```
 https://cdn.johanst.nom.za/jquery/jquery-3.6.0.min.js
 https://cdn.johanst.nom.za/jquery/jquery-3.6.0.slim.min.js
-</code></p>
+```
+
